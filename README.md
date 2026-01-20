@@ -261,10 +261,12 @@
 11.3 Career & CV Strategy
 
 ---
-google-cloud-data-engineer-course-outline.md
 
 ## FINAL OUTCOME
 
 12.1 Technical Outcome
 12.2 Leadership Outcome
 12.3 Career Outcome
+
+---
+google-cloud-data-engineer-course-outline.md
